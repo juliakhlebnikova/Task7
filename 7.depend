@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1606495504 source:c:\users\julia\desktop\7\main.cpp
+	<iostream>
+	<ctime>
+	<list>
+	<stdlib.h>
+	<time.h>
+	<locale>
+
+1606667555 source:c:\users\julia\desktop\ÝÂÌ\7\main.cpp
+	<iostream>
+	<ctime>
+	<list>
+	<stdlib.h>
+	<time.h>
+	<locale>
+
